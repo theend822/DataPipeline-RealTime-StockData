@@ -1,0 +1,32 @@
+
+
+Data Preparation Log
+20250515_122441
+--------------------------------
+total number of rows: 20126
+total number of rows with bad data: 5
+--------------------------------
+OPEN PRICE UPDATES:
+------------------
+Original data is {'1. open': '210.8200', '2. high': '210.8730', '3. low': '210.7200', '4. close': '210.7750', '5. volume': '71755'}
+updated data is {'1. open': '0', '2. high': '210.8730', '3. low': '210.7200', '4. close': '210.7750', '5. volume': '71755'}
+
+
+Original data is {'1. open': '196.6181', '2. high': '196.8971', '3. low': '196.5476', '4. close': '196.6874', '5. volume': '159219'}
+updated data is {'1. open': '0', '2. high': '196.8971', '3. low': '196.5476', '4. close': '196.6874', '5. volume': '159219'}
+
+
+
+
+VOLUME UPDATES:
+------------------
+Original data is {'1. open': '194.6791', '2. high': '194.8091', '3. low': '194.6199', '4. close': '194.6499', '5. volume': '77568'}
+Updated data is {'1. open': '194.6791', '2. high': '194.8091', '3. low': '194.6199', '4. close': '194.6499', '5. volume': '0'}
+
+
+Original data is {'1. open': '191.7635', '2. high': '191.7635', '3. low': '191.7135', '4. close': '191.7435', '5. volume': '811'}
+Updated data is {'1. open': '191.7635', '2. high': '191.7635', '3. low': '191.7135', '4. close': '191.7435', '5. volume': '0'}
+
+
+
+
